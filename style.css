@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.ancho{
+    max-width: 1200px;
+    margin: auto;
+}
+
+header{
+    height: 90px;
+    width: 100%;
+    background-color: #732817;
+}
+
+.logo{
+    float: left;
+    padding-top: 10px;
+    margin-left: 40px;
+    }
+
+.menu{
+    max-width: 800px;
+    float: right;
+    padding-top: 25px;
+    margin-right: 70px;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.menu a:hover{
+    color: #d8d21a;
+    text-decoration: underline;
+    text-decoration-thickness:3px ;
+    text-decoration-color:#e75231;
+}
+
+.menu a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+   
+}
+
+
+.logotipo{
+    background-color: #131F26;
+    width: 100%;
+    height: 700px;
+}
+
+.text1{
+    color: #fff;
+    text-align: center;
+    max-width: 550px;
+    font-size: 22px;
+    padding-top: 80px;
+    
+}
+
+
+.logotipo2{
+    max-width: 350px;
+    padding-top: 15px;
+
+}
+.logotipo2-1 img{
+    width: 100%;
+}
+
+.logotipo2-1{
+    text-align: center;
+}
+
+.cervezas{
+    color: #A63C24;
+}
+
+.parrafo1{
+    color: #898D89;
+}
+
+.box1{
+    background-color:#F1EBDB ;
+    height: 750px;
+}
+
+.title1{
+    font-size: 25px;
+}
+
+.title2{
+    font-size: 35px;
+    color: #A63C24;
+}
+
+.text2{
+    max-width: 800px;
+    padding-top: 110px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.pictures{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+
+}
+
+
+.hotel1{
+    margin-right: 30px;
+}
+
+.pictures img{
+    width: 100%;
+}
+.hotel2{
+    margin-right: 30px;
+}
+
+.pictures img{
+    width: 100%;
+}
+
+.pictures img{
+    width: 100%;
+}
+
+
+.buscar{
+    width: 15px;
+}
+
+.face{
+    width: 10px;
+}
+
+.insta{
+    width: 15px;
+}
+
+
+.box2{
+    background-color: #9D4021;
+    height: 800px;
+}
+
+.title3{
+    padding-bottom: 5px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.title4{
+    padding-bottom: 5px;
+    color: rgb(5, 5, 128);
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.text3{
+    max-width: 800px;
+    padding-top: 110px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text3 p{
+    color:#F9FFFF;
+}
+
+
+ .dueños{
+    border: 2px solid blue;
+    width: 350px;
+    padding: 20px;
+    margin: auto;
+}
+
+.dueños img{
+    width: 100%;
+}
+
+
+footer{
+    width: 100%;
+    background-color: #131F26;
+    height: 400px;
+    border: 2px solid #131F26;
+}
+
+.info1{
+    max-width: 400px;
+    padding: 10px;
+    color: #9D4021;
+}
+
+.info1 p{
+padding-left: 20px;
+font-size: 15px;
+}
+
+.red svg{
+    padding-top: 20px;
+    margin-left: 30px;
+}
+
+.info2{
+    max-width: 300px;
+    color: #F1EBDB;
+    line-height: 30px;
+    font-size: 20spx;
+}
+
+.info2 span{
+    color: #9D4021;
+}
+
+.info3{
+    max-width: 300px;
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.info3 h3{
+    color: #F9FFFF;
+}
+
+.info3 ul{
+    list-style: none;
+}
+
+.lista a{
+    text-decoration: none;
+    color: #9D4021;
+}
+
+
+.informacion{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+  
+
+}
+
+.creador{
+    width: 100%;
+    height: 50px;
+    padding: 20px;
+    background-color: #03131c;
+    color: #F9FFFF;
+    text-align: center;
+}
+
+
+

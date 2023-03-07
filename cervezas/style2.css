@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Serif', serif;
+}
+
+.ancho{
+    width: 1200px;
+    margin: auto;
+}
+
+header{
+    height: 90px;
+    width: 100%;
+    background-color: #732817;
+}
+
+.logo{
+    float: left;
+    padding-top: 10px;
+    margin-left: 40px;
+    }
+
+.menu{
+    float: right;
+    padding-top: 25px;
+    margin-right: 70px;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.menu a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 30px;
+    font-weight: bold;
+   
+}
+
+.menu a:hover{
+    color: #d8d21a;
+    text-decoration: underline;
+    text-decoration-thickness:3px ;
+    text-decoration-color:#e75231;
+}
+
+a img{
+    width: 18px;
+    height: 18px;
+}
+
+.buscar{
+    width: 15px;
+}
+
+.face{
+    width: 10px;
+}
+
+.insta{
+    width: 15px;
+}
+
+.beers{
+    height: 650px;
+    
+}
+
+.text{
+    width: 800px;
+    margin-top: 90px;
+}
+
+.text h1{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+
+}
+
+.text h2{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+
+}
+
+.text p{
+    text-align: center;
+}
+
+.productos{
+    width: 800px;
+    margin-top: 20px;
+}
+
+.productos img{
+    width: 100%;
+}
+
+.beer1{
+    background-color:#964B30;
+    width:100% ;
+    height: 1200px;
+    font-family: 'Playfair Display', serif;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.pic1{
+    width: 505px;
+    align-self: flex-end;
+}
+
+.pic1-2{
+    width: 640px;
+    margin-top: 180px;
+}
+
+.text3{
+    width: 600px;
+    color: #fff;
+    text-align: center;
+    margin-top: 180px;
+}
+
+.text3 h2{
+    font-size: 30px;
+}
